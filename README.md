@@ -11,7 +11,9 @@ __Study type__
 - Floc size measurement method: images of turbulent suspension
 - Settling velocity measurement method: insulated settling column
 
-<img align="center" src="https://github.com/FlocData/Data-2017-TranEtal/blob/master/Figures/Equipment.jpg" width="600">
+<p align="center">
+<img width="600" src="https://github.com/FlocData/Data-2017-TranEtal/blob/master/Figures/Equipment.jpg">
+</p>
 
 __Data__
 
