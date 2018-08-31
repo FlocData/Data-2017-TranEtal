@@ -4,7 +4,8 @@ All data in this repository is associated with the following paper:
 
 Data from the paper: Tran, D. and Strom, K. (2017). Suspended clays and silts: Are they independent or dependent fractions when it comes to settling in a turbulent suspension? *Continental Shelf Research*, 138, 81-94, doi: [10.1016/j.csr.2017.02.011](https://doi.org/10.1016/j.csr.2017.02.011).
 
-Data set: [![DOI](https://zenodo.org/badge/132918444.svg)](https://zenodo.org/badge/latestdoi/132918444)
+Data set:
+[![DOI](https://zenodo.org/badge/132918444.svg)](https://zenodo.org/badge/latestdoi/132918444)
 
 __Study type__
 - Location: laboratory
